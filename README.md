@@ -66,7 +66,7 @@ Design a **single-page, macro-enabled Excel dashboard** that:
 
 ---
 
-## 📊 Dashboard Pages
+## 📊 Dashboard Page
 
 ### Healthcare Readmission Risk Dashboard
 - This is a macro‑enabled advanced Excel single‑page dashboard designed to provide interactive, executive‑level insights into healthcare readmission risk across patients, diagnoses, and medical specialties.
@@ -83,6 +83,7 @@ Design a **single-page, macro-enabled Excel dashboard** that:
 - Missing medical specialty data (**49.53%**) highlights data quality improvement opportunities
 
 ---
+
 ## 💼 Business Use Cases
 - Faster identification of high-risk readmission cases
 - Reduced manual reporting effort using VBA automation
